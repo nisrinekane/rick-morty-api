@@ -1,10 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Slab&display=swap');
+
 .App {
   text-align: center;
+  padding: 5px;
+  background-image: linear-gradient(to top, #0fd850 0%, #f9f047 100%);
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+
+h1 {
+  color: #0fd850;
+}
+
+input {
+  border-radius: 11px;
+  border: none;
 }
 
 @media (prefers-reduced-motion: no-preference) {

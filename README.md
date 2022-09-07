@@ -1,3 +1,6 @@
+## rick and morty characters generating app using r&m API
+## images redirect to wiki website
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
