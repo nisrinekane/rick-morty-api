@@ -7,6 +7,7 @@ const Form = ({ character, setCharacter }) => {
     e.preventDefault();
     setCharacter(query)
   }
+  
   return (
     <div>
       <form onSubmit={handleSubmit}>

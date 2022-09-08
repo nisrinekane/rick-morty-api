@@ -9,7 +9,7 @@
   pointer-events: none;
 }
 
-h1 {
+h1, .btn {
   color: #0fd850;
   font-weight: bold;
 }
