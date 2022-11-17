@@ -1,5 +1,9 @@
+<img width="1425" alt="Screen Shot 2022-11-17 at 3 36 06 PM" src="https://user-images.githubusercontent.com/34342007/202582684-6b174ea7-2957-4a5b-b392-a47e0390bee8.png">
+
 ## rick and morty characters generating app using r&m API
 ## images redirect to wiki website
+
+<hr />
 
 # Getting Started with Create React App
 
